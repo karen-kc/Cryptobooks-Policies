@@ -14,33 +14,41 @@ By using the Service, you acknowledge that you accept the practices and policies
 
 In order to use the Services, users may be required to have a valid Cryptobooks – Invoice Builder account to log in to the Services (“Account”). When you register for the Services or create an Account, we collect certain information from you (collectively, “Account Information”). When you register for the Services, we will collect the following personal information: 
 
-•    Email address
+<ul>
+    <li>Email address</li>
+</ul>
 
 When our users utilize the Services to send invoices, we collect your IP address and mobile device ID. The Services will also keep track of invoices and Personal Information which may include:
 
-•    Optional first name, last name and/or company name
-•    Public wallet addresses
+<ul>
+    <li>Optional first name, last name and/or company name</li>
+    <li>Public wallet addresses</li>
+</ul>
 
 <h4>Invoice Recipients</h4>
 
 Cryptobooks – Invoice Builder customers use the Services to create and send invoices to their clients and other third parties (“Recipients”). In order to provide these Services, we collect Personal Information about the Recipients from our customers. Such Personal Information may include: 
 
-•    Optional first name, last name and/or company name
-•    Public wallet addresses
+<ul>
+    <li>Optional first name, last name and/or company name</li>
+    <li>Public wallet addresses</li>
+</ul>
 
 <h3>Use of Personal Information</h3>
 
 In addition to the purposes identified above, we may use Personal Information to:
 
-•    authenticate access to the Account and provide access to the Services;
-•    provide, operate, maintain and improve the Services;
-•    send technical notices, updates, security alerts and support and administrative messages;
-•    provide and deliver the Services and features you request;
-•    respond to comments, questions, and requests and provide customer service and support;
-•    investigate and prevent fraudulent transactions, unauthorized access to the Services, and other illegal activities;
-•    monitor and analyze trends, usage, and activities in connection with the Services;
-•    enable you to communicate, and share files with users you designate; and
-•    for other purposes which we will notify you about and seek your consent.
+<ul>
+    <li>authenticate access to the Account and provide access to the Services;</li>
+    <li>provide, operate, maintain and improve the Services;</li>
+    <li>send technical notices, updates, security alerts and support and administrative messages;</li>
+    <li>provide and deliver the Services and features you request;</li>
+    <li>respond to comments, questions, and requests and provide customer service and support;</li>
+    <li>investigate and prevent fraudulent transactions, unauthorized access to the Services, and other illegal activities;</li>
+    <li>monitor and analyze trends, usage, and activities in connection with the Services;</li>
+    <li>enable you to communicate, and share files with users you designate; and</li>
+    <li>for other purposes which we will notify you about and seek your consent.</li>
+</ul>  
 
 <h2>Storage and Transfer of Data</h2>
 
@@ -68,8 +76,10 @@ We may disclose your Personal Information to third parties without your consent 
 
 We also reserve the right to access, read, preserve, and disclose any information as we reasonably believe is necessary to:
 
-•    satisfy any applicable law, regulation, legal process or governmental request; enforce our contracts or user agreement, including investigation of potential violations hereof; and
-•    detect, prevent, or otherwise address fraud, security or technical issues.
+<ul>
+    <li> satisfy any applicable law, regulation, legal process or governmental request; enforce our contracts or user agreement, including investigation of potential violations hereof; and</li>
+    <li>detect, prevent, or otherwise address fraud, security or technical issues.</li>
+</ul> 
 
 The above may include exchanging information with other companies and organizations for fraud protection and spam/malware prevention. Notwithstanding the general terms of this policy, the collection, use, and disclosure of Personal Information may be made outside of the terms herein to the extent provided for in any applicable privacy or other legislation in effect from time to time, or pursuant to court orders.
 
@@ -93,8 +103,10 @@ We may use third party services to facilitate our Service, to provide the Servic
 
 We strongly advise you to read the terms and conditions and privacy policies of the third-party sites or services. Listed below are the links to the Privacy Policy of third-party service providers used by the app:
 
-•    <a href="https://firebase.google.com/policies/analytics">Google Analytics for Firebase</a>
-•    <a href="https://firebase.google.com/support/privacy/">Firebase Crashlytics</a>
+<ul>
+    <li><a href="https://firebase.google.com/policies/analytics">Google Analytics for Firebase</a></li>
+    <li><a href="https://firebase.google.com/support/privacy/">Firebase Crashlytics</a></li>
+</ul>
 
 <h2>Changes To This Privacy Policy</h2>
 

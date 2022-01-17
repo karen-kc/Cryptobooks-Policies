@@ -76,8 +76,10 @@ The Service may contain links to third-party services that are not owned or cont
 
 We strongly advise you to read the terms and conditions and privacy policies of the third-party sites or services. Listed below are the links to the Terms and Conditions of third-party service providers used by the app:
 
-•    <a href="https://firebase.google.com/terms/analytics">Google Analytics for Firebase</a>
-•    <a href="https://firebase.google.com/terms/crashlytics">Firebase Crashlytics</a>
+<ul>
+    <li><a href="https://firebase.google.com/terms/analytics">Google Analytics for Firebase</a></li>
+    <li><a href="https://firebase.google.com/terms/crashlytics">Firebase Crashlytics</a></li>
+</ul>  
 
 <h3>Changes To This Terms and Conditions</h3>
 
